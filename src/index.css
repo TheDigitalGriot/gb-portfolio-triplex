@@ -1,0 +1,17 @@
+#gb-r3f-header {
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  overflow: hidden; /* Ensure no unwanted scrollbars */
+}
+
+#gb-typing-text {
+  pointer-events: none;
+}
+#gb-header-overlay {
+  pointer-events: none;
+}
+
+body {
+  margin: 0;
+}
